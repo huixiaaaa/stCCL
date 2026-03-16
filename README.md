@@ -1,0 +1,5 @@
+stCCL: collaborative contrastive learning with global shared representation for spatial domains identification
+![](D:\code111\GraphST-main\stCCL\framework.jpg)
+Overview
+
+stCCL, a collaborative contrastive learning model for spatial transcriptomics data. Combining gene perturbation with topological random pruning, stCCL constructs more discriminative contrastive views. stCCL dynamically fuses spatial and feature views to generate a global shared representation, constraining the contrastive learning process and achieving multi-view collaborative optimisation during training. Experimental results demonstrate that stCCL outperforms existing methods in both recognition accuracy and robustness, with biological interpretability. stCCL precisely identifies complex and subtle tissue domains, enables exploration of unlabeled regions, and enhances the spatial expression patterns of genes.
